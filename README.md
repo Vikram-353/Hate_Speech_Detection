@@ -1,1 +1,2 @@
 # Hate_Speech_Detection
+In this project, I utilized a Hate Speech Dataset sourced from Kaggle. The objective was to develop a machine learning model to discern whether comments could be categorized as hate speech or not. Several classification algorithms were employed, including Decision Tree, Gaussian Naive Bayes, Support Vector Classifier (SVC), and K-Nearest Neighbors (KNN). After rigorous evaluation, it was observed that the Support Vector Classifier (SVC) outperformed the other algorithms in terms of predictive performance and accuracy.
